@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde translation library
 Name:		php-horde-Horde_Translation
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	ad20343fa7fad0a0d27ea00807cc30b5
+# Source0-md5:	4d67b9709ead5bafe095bda5688bc76f
 URL:		https://github.com/horde/horde/tree/master/framework/Translation/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
