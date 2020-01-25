@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Translation
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde translation library
 Name:		php-horde-Horde_Translation
 Version:	1.0.2
